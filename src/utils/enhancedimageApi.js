@@ -1,12 +1,7 @@
-// const base_url = import.meta.env.VITE_API_BASE_URL;
-// const api_key = import.meta.env.VITE_API_KEY;
-
 import axios from "axios";
+import { API_KEY, BASE_URL } from "../config"; 
 
-// Constants
-const API_KEY = "API_KEY";                           // API Key for authentication
-const BASE_URL = "BASE_URL";                // Base URL for the API
-const MAXIMUM_RETRIES = 20;                                   // Max retries while polling for enhanced image
+const MAXIMUM_RETRIES = 20;                              
 
 // Main function to enhance an image using the API
 export const enhancedImageAPI = async (file) => {
