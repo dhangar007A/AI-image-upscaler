@@ -67,6 +67,12 @@ To get a local copy up and running, follow these simple steps.
 
 ---
 
+##Glimps of @ASD's Web application
+<img width="1366" height="933" alt="Image" src="https://github.com/user-attachments/assets/2fd995d7-5a8a-4c43-ae42-43fef8edc971" />
+
+<img width="1301" height="931" alt="Image" src="https://github.com/user-attachments/assets/4f4db614-f10c-4780-867f-fcd61f9d5823" />
+
+
 ## Usage
 
 1.  Open the application in your browser.
