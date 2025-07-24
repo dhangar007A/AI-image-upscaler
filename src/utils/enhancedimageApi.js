@@ -97,8 +97,8 @@
 
 import axios from "axios";
 
-const API_KEY = import.meta.env.VITE_API_KEY || "wx88eihaxkz1vdd9p";
-const BASE_URL = (import.meta.env.VITE_API_BASE_URL || "https://techhk.aoscdn.com/api").replace(/\/$/, "");
+const API_KEY = import.meta.env.VITE_API_KEY || "API_KEY";
+const BASE_URL = (import.meta.env.VITE_API_BASE_URL || "Base_url").replace(/\/$/, "");
 const MAXIMUM_RETRIES = 20;
 
 export const enhancedImageAPI = async (file) => {
