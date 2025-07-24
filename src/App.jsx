@@ -1,7 +1,5 @@
 
 import Home from './components/Home'
-const dotenv = require("dotenv");
-dotenv.config();
 
 const App = () => {
   return (
