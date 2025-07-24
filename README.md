@@ -3,8 +3,9 @@
 A modern, user-friendly web application that leverages the power of AI to upscale and enhance the quality of your images. Built with React, Vite, and Tailwind CSS, this project demonstrates seamless integration with a third-party AI API to provide a fast and effective image processing tool.
 
 ![Screenshot of the AI Image Enhancer application]
-*(Note: You should replace this line with an actual screenshot of your project. You can upload an image to your repo and link it here.)*
+<img width="1366" height="933" alt="Image" src="https://github.com/user-attachments/assets/2fd995d7-5a8a-4c43-ae42-43fef8edc971" />
 
+<img width="1301" height="931" alt="Image" src="https://github.com/user-attachments/assets/4f4db614-f10c-4780-867f-fcd61f9d5823" />
 ---
 
 ## ✨ Key Features
@@ -25,7 +26,7 @@ This project is built with a modern frontend stack:
 -   **Frontend:** [React.js](https://react.dev/) (with Vite)
 -   **Styling:** [Tailwind CSS](https://tailwindcss.com/) & [Flowbite](https://flowbite.com/)
 -   **API Client:** [Axios](https://axios-http.com/)
--   **AI Service:** [PicWish API](https://picwish.com/api) (or your chosen API)
+-   **AI Service:** [PicWish API](https://picwish.com/api) 
 
 ---
 
@@ -40,13 +41,13 @@ To get a local copy up and running, follow these simple steps.
 
 ### Installation
 
-1.  **Clone the repository:**
-    ```sh
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+1. **Clone the repository:**  
+   ```sh
+   git clone https://github.com/dhangar007A/AI-image-upscaler.git
     ```
 2.  **Navigate to the project directory:**
     ```sh
-    cd your-repo-name
+    cd AI-image-upscaler
     ```
 3.  **Install NPM packages:**
     ```sh
@@ -67,10 +68,6 @@ To get a local copy up and running, follow these simple steps.
 
 ---
 
-##Glimps of @ASD's Web application
-<img width="1366" height="933" alt="Image" src="https://github.com/user-attachments/assets/2fd995d7-5a8a-4c43-ae42-43fef8edc971" />
-
-<img width="1301" height="931" alt="Image" src="https://github.com/user-attachments/assets/4f4db614-f10c-4780-867f-fcd61f9d5823" />
 
 
 ## Usage
